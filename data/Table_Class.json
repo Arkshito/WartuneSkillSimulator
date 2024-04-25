@@ -578,5 +578,35 @@
     "Type": 600,
     "TypeBranch": 600030,
     "IsOpen": 1
+  },
+  {
+    "Id": 1755959,
+    "NameZh": "Guerrero",
+    "Skill": [447001, 462001, 444001, 445001, 446001],
+    "MaxJobLevel": 999,
+    "AdvanceClass": null,
+    "Type": 600,
+    "TypeBranch": 600030,
+    "IsOpen": 1
+  },
+  {
+    "Id": 175295,
+    "NameZh": "Arquero",
+    "Skill": [447001, 462001, 444001, 445001, 446001],
+    "MaxJobLevel": 999,
+    "AdvanceClass": null,
+    "Type": 600,
+    "TypeBranch": 600030,
+    "IsOpen": 1
+  },
+  {
+    "Id": 4136,
+    "NameZh": "Mago",
+    "Skill": [447001, 462001, 444001, 445001, 446001],
+    "MaxJobLevel": 999,
+    "AdvanceClass": null,
+    "Type": 600,
+    "TypeBranch": 600030,
+    "IsOpen": 1
   }
 ]
